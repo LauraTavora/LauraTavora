@@ -46,7 +46,6 @@
   <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
   <img alt="Visual Studio" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="40" />
   <img alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="40" />
-  <img alt="DataGrip" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DataGrip-Dark.svg" width="40" />
   <img alt="PyCharm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" width="40" />
   <img alt="WebStorm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg" width="40" />
   <img alt="Android Studio" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="40" />
