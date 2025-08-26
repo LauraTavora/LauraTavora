@@ -1,4 +1,4 @@
-<h2>Hi there 👋, I'm Laura Távora!</h2>
+<h2>Welcome to Laura Távora's profile 😁</h2>
 
 <ul>
   <li>🌱 Currently studying System Development at <strong>Germinare TECH</strong></li>
