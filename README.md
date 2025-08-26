@@ -3,7 +3,7 @@
 <ul>
   <li>🌱 Currently studying System Development at <strong>Germinare TECH</strong></li>
   <li>🔭 Working as a <strong>System Developer</strong> at <strong>JBS USA</strong></li>
-  <li>☁️ Using <strong>C#</strong> daily</li>
+  <li>☁️ Using <strong>C#</strong> and <strong>Vue.js</strong> daily</li>
 </ul>
 
 <details>
@@ -25,23 +25,16 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=LauraTavora&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
----
-
 ## 🧠 Programming Languages
 
 <p>
   <img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
-  <img alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" />
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="40" />
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
-  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
   <img alt="JavaScript" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40" />
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" />
-  <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" />
+  <img alt="Dart" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" width="40" />
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" />
+  <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
 
@@ -51,16 +44,19 @@
 
 <p>
   <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+  <img alt="Visual Studio" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="40" />
   <img alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="40" />
-  <img alt="GitHub" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="40" />
+  <img alt="DataGrip" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DataGrip-Dark.svg" width="40" />
+  <img alt="PyCharm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" width="40" />
+  <img alt="WebStorm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg" width="40" />
   <img alt="Android Studio" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="40" />
-  <img alt="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Light.svg" width="40" />
   <img alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Light.svg" width="40" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img alt="GitHub" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="40" />
+  <img alt="Spring" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Spring-Light.svg" width="40" />
   <img alt="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" />
-  <img alt="C#" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
   <img alt="Vue.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" />
+  <img alt="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40" />
 </p>
 
 
