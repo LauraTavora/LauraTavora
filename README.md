@@ -12,7 +12,7 @@
   - 🧠 I'm 16 years old and live in Brazil  
   - 🌎 Intermediate English speaker
   - 📚 I have experience with:
-  -   <code>C#</code>, <code>Vue.js</code>, <code>Java</code>, <code>PostgreSQL</code>, <code>MongoDB</code>, <code>JavaScript</code>, <code>Python</code>, <code>Flutter</code>...
+     <code>C#</code>, <code>Vue.js</code>, <code>Java</code>, <code>PostgreSQL</code>, <code>MongoDB</code>, <code>JavaScript</code>, <code>Python</code>, <code>Flutter</code>...
   - 📖 I enjoy reading books and I'm passionate about mobile apps!  
 </details>
 
