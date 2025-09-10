@@ -1,18 +1,19 @@
-<h2>Welcome to Laura Távora's profile 😁</h2>
+<h2>Hey! This is Laura Távora's profile, welcome! 😁</h2>
 
+### 💻 Professional Part!
 <ul>
-  <li>🌱 Currently studying System Development at <strong>Germinare TECH</strong></li>
+  <li>🌱 Currently studying System Development at <strong>Instituto J&F</strong></li>
   <li>🔭 Working as a <strong>System Developer</strong> at <strong>JBS USA</strong></li>
   <li>☁️ Using <strong>C#</strong> and <strong>Vue.js</strong> daily</li>
+  <li> 📚 I have experience with:
+     <code>C#</code>, <code>Vue.js</code>, <code>Java</code>, <code>PostgreSQL</code>, <code>MongoDB</code>, <code>JavaScript</code>, <code>Python</code>, <code>Flutter</code>...</li>
 </ul>
 
 <details>
   <summary>👨‍💻 More about me</summary>
 
   - 🧠 I'm 16 years old and live in Brazil  
-  - 🌎 Intermediate English speaker
-  - 📚 I have experience with:
-     <code>C#</code>, <code>Vue.js</code>, <code>Java</code>, <code>PostgreSQL</code>, <code>MongoDB</code>, <code>JavaScript</code>, <code>Python</code>, <code>Flutter</code>...
+  - 🌎 Advanced English speaker
   - 📖 I enjoy reading books and I'm passionate about mobile apps!  
 </details>
 
@@ -37,7 +38,6 @@
   <img alt="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
 </p>
 
-
 ---
 
 ## 🛠️ Tools & Frameworks
@@ -58,6 +58,12 @@
   <img alt="React" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40" />
 </p>
 
+---
+
+## 📩 Contact Me!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/laura-francisco-távora-946a622b3)
+- ✉️ Email: **laurafranciscotavora5@gmail.com**
 
 ---
 ![Snake animation](https://raw.githubusercontent.com/EmilioStuart/EmilioStuart/output/snake.svg)
