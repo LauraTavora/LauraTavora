@@ -12,7 +12,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 🧠 I'm 16 years old and live in Brazil  
+  - 🧠 I'm 17 years old and live in Brazil  
   - 🌎 Advanced English speaker
   - 📖 I enjoy reading books and I'm passionate about mobile apps!  
 </details>
