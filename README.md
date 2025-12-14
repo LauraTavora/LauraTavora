@@ -37,76 +37,75 @@
       padding:24px;
     ">
 
-  <h1 style="margin:0 0 12px 10px;">🧠 Programming Stack</h1>
+  <h2 style="margin:0 0 12px 10px;">🧠 Programming Stack</h2>
   
   <hr style="border:none;border-top:1px solid #30363d;margin:12px 0 16px 0;"/>
   
-  <h2 <strong>🎨 Front-end</strong></h2>
+  <h3 <strong>🎨 Front-end</strong></h3>
   <p style="margin:10px 0 0 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="60"/>
-    <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" />
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="60"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="60"/>
-    <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="60" />
-    <img alt="WebStorm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg" width="60" />
-    <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"/>
+    <img alt="TypeScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" />
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" width="40"/>
+    <img alt="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+    <img alt="WebStorm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/WebStorm-Dark.svg" width="40" />
+    <img alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" />
   </p>
   
   <hr style="border:none;border-top:1px solid #30363d;margin:16px 0;"/>
   
-  <h2 <strong>⚙️ Back-end</strong></h2>
+  <h3 <strong>⚙️ Back-end</strong></h3>
   <p style="margin:10px 0 0 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="60"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Light.svg" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/>
-    <img alt="Visual Studio" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="60" />
-    <img alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="60" />
-    <img alt="PyCharm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" width="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Spring-Light.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+    <img alt="Visual Studio" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VisualStudio-Dark.svg" width="40" />
+    <img alt="IntelliJ IDEA" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Idea-Dark.svg" width="40" />
+    <img alt="PyCharm" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" width="0" />
   </p>
   
   <hr style="border:none;border-top:1px solid #30363d;margin:16px 0;"/>
   
-  <h2 <strong>🗄️ Data & Databases</strong></h2>
+  <h3 <strong>🗄️ Data & Databases</strong></h3>
   <p style="margin:10px 0 0 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60"/>
-    <img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="60" />
-    <img alt="DataGrip" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" width="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+    <img alt="Redis" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" />
+    <img alt="DataGrip" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" width="40" />
   </p>
   
   <hr style="border:none;border-top:1px solid #30363d;margin:16px 0;"/>
   
-  <h2 <strong>☁️ DevOps & Cloud</strong></h2>
+  <h3 <strong>☁️ DevOps & Cloud</strong></h3>
   <p style="margin:10px 0 0 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="60"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="60"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Light.svg" width="40"/>
   </p>
   
   <hr style="border:none;border-top:1px solid #30363d;margin:16px 0;"/>
   
-  <h2 <strong>📱 Mobile</strong></h2>
+  <h3 <strong>📱 Mobile</strong></h3>
   <p style="margin:10px 0 0 0;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="60"/>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" width="60"/>
-    <img alt="Android Studio" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="60" />
-    <img alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="60" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Dart-Dark.svg" width="40"/>
+    <img alt="Android Studio" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" width="40" />
+    <img alt="Kotlin" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" />
   </p>
   
   <hr style="border:none;border-top:1px solid #30363d;margin:16px 0;"/>
 
-  <h2 <strong>🎨 Design</strong></h2>
+  <h3 <strong>🎨 Design</strong></h3>
   <p style="margin:10px 0 0 0;">
-     <img alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Light.svg" width="60" />
+     <img alt="Figma" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Light.svg" width="40" />
   </p>  
   </tr>
 </table>
 
 </div>
-
 
 ---
 
