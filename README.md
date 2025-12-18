@@ -2,7 +2,7 @@
 
 ### 💻 Professional Part!
 <ul>
-  <li>🌱 Currently studying System Development at <strong>Instituto J&F</strong></li>
+  <li>🌱 Currently studying System Development at <strong>Institute J&F</strong></li>
   <li>🔭 Working as a <strong>System Developer</strong> at <strong>JBS USA</strong></li>
   <li>☁️ Using <strong>C#</strong> and <strong>Vue.js</strong> daily</li>
   <li> 📚 I have experience with:
